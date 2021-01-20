@@ -1,0 +1,44 @@
+body {
+  display: block;
+  margin: 0;
+  background-image: url("dekut image.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container {
+  line-height: 1.2rem;
+}
+
+
+div.focus {
+  margin-top: 20%;
+  background-color: rgba(0,0,0, .6);
+  border-radius: 10px;
+}
+
+h2.myHeader {
+  margin-bottom: 20px;
+  margin-top: 5%;
+  color: #40de61;
+  text-align: center;
+}
+
+h3.loginLabel {
+  color: red;
+  font-size: 18px;
+}
+
+input.myInput {
+    color: #fff;
+    background-color: rgba(0,0,0, 1);
+    border-radius: 7px;
+    border: 1px solid white;
+    padding: 8px;
+    width: 85%;
+}
+
+label.myLabel {
+    color: #f5ea14;
+    font-size: 18px;
+}
